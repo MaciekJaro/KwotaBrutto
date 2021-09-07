@@ -9,7 +9,7 @@ cout<< "Podaj kwote Brutto"<<endl;
 cin>>kwotabrutto;
 cout<<" kwota podatku wynosi \t"<<kwotabrutto*0.19<<endl;
 cout<<"kwota netto wynosi \t" <<kwotabrutto - kwotabrutto*0.19<<endl;
-	
+	//Yolo
 	
 	
 	
